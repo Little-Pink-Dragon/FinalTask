@@ -23,3 +23,14 @@ for (int j = 0; j < R; j++)
     }
 }
 
+Console.Write("[ ");
+
+void PrintArray(string[] array)
+{
+ for (int i = 0; i < array.Length; i++)
+    {
+ Console.Write(array[i] + " ");
+    }
+ Console.Write("] - слова, в которых меньше 4 символов");
+}
+PrintArray(arrayFinite);
