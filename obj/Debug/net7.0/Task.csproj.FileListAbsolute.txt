@@ -1,0 +1,15 @@
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\bin\Debug\net7.0\Task.exe
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\bin\Debug\net7.0\Task.dll
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.dll
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\Valeria\Desktop\C#\FinalTask\Task\obj\Debug\net7.0\ref\Task.dll
