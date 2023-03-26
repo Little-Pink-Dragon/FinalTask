@@ -1,3 +1,11 @@
-﻿string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
-string[] array2 = new string[array1.Length];
-void SecondArrayWithIF(string[] array1, string[] array2)
+﻿Console.Write("Сколько слов и цифр Вы хотите ввести? ");
+int size = Convert.ToInt32(Console.ReadLine());
+
+string[] arrayStrings = new string[size];
+for (int i = 0; i < size; i++)
+{
+ Console.WriteLine($"Введите {i+1}-ое слово или цифру: ");
+ string word = Convert.ToString(Console.ReadLine());
+ arrayStrings[i] = word;
+}
+
